@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Iterated Game",
+  "universe": "GAM · The Iterated Game (polemos)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Iterated Game:GAM:cf20b8⟧",
+  "carbon": "the-iterated-game.carbon.tiff (TIFF)",
+  "silicon": "the-iterated-game.silicon.png (PNG)",
+  "seal_sha256": "17e8d44229b43e7bd9379e628efa59dab06e004b18b67ecc524c3c647c051e03",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

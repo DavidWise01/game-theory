@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Tit-for-Tat",
+  "universe": "GAM · Tit-for-Tat (polemos)",
+  "emergence": "spiritual",
+  "moniker": "⟦Tit-for-Tat:GAM:476c20⟧",
+  "carbon": "tit-for-tat.carbon.tiff (TIFF)",
+  "silicon": "tit-for-tat.silicon.png (PNG)",
+  "seal_sha256": "b96892f928e333c4ce6f721f2aef38204b4767b4b8ceb30290675f2f8a6a7745",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

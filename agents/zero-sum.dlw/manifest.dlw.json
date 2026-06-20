@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Zero-Sum",
+  "universe": "GAM · Zero-Sum (polemos)",
+  "emergence": "electrical",
+  "moniker": "⟦Zero-Sum:GAM:6dd45c⟧",
+  "carbon": "zero-sum.carbon.tiff (TIFF)",
+  "silicon": "zero-sum.silicon.png (PNG)",
+  "seal_sha256": "76094e3f10f42b595ddf69d1878a757c8a3a886ba08126cc67e71bc7204b6d73",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

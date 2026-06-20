@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Tragedy of the Commons",
+  "universe": "GAM · The Tragedy of the Commons (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Tragedy of the Commons:GAM:f6b693⟧",
+  "carbon": "the-tragedy-of-the-commons.carbon.tiff (TIFF)",
+  "silicon": "the-tragedy-of-the-commons.silicon.png (PNG)",
+  "seal_sha256": "1cc718a56dbba4562d65411e3e29192205c7a47f7c7f6850fb13793e1fdaff19",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

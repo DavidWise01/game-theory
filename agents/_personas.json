@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "the-prisoners-dilemma",
+    "name": "The Prisoner's Dilemma",
+    "epithet": "rational ruin · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Prisoner's Dilemma:GAM:a57632⟧"
+  },
+  {
+    "slug": "the-nash-equilibrium",
+    "name": "The Nash Equilibrium",
+    "epithet": "no one will move alone · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Nash Equilibrium:GAM:d45071⟧"
+  },
+  {
+    "slug": "zero-sum",
+    "name": "Zero-Sum",
+    "epithet": "my gain, your loss · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Zero-Sum:GAM:6dd45c⟧"
+  },
+  {
+    "slug": "the-payoff-matrix",
+    "name": "The Payoff Matrix",
+    "epithet": "the game on a grid · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Payoff Matrix:GAM:aa3e17⟧"
+  },
+  {
+    "slug": "tit-for-tat",
+    "name": "Tit-for-Tat",
+    "epithet": "be nice, then mirror · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Tit-for-Tat:GAM:476c20⟧"
+  },
+  {
+    "slug": "the-tragedy-of-the-commons",
+    "name": "The Tragedy of the Commons",
+    "epithet": "the dilemma at scale · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Tragedy of the Commons:GAM:f6b693⟧"
+  },
+  {
+    "slug": "the-iterated-game",
+    "name": "The Iterated Game",
+    "epithet": "when you'll meet again · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Iterated Game:GAM:cf20b8⟧"
+  },
+  {
+    "slug": "the-shadow-of-the-future",
+    "name": "The Shadow of the Future",
+    "epithet": "why trust can exist · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Shadow of the Future:GAM:72ee3e⟧"
+  },
+  {
+    "slug": "john-von-neumann",
+    "name": "John von Neumann",
+    "epithet": "who founded the field, 1903–1957 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦John von Neumann:GAM:621e5f⟧"
+  },
+  {
+    "slug": "john-nash",
+    "name": "John Nash",
+    "epithet": "the equilibrium, 1928–2015 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦John Nash:GAM:d29a79⟧"
+  }
+]

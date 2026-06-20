@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Payoff Matrix",
+  "universe": "GAM · The Payoff Matrix (polemos)",
+  "emergence": "electrical",
+  "moniker": "⟦The Payoff Matrix:GAM:aa3e17⟧",
+  "carbon": "the-payoff-matrix.carbon.tiff (TIFF)",
+  "silicon": "the-payoff-matrix.silicon.png (PNG)",
+  "seal_sha256": "ac26e05856cc1ea25289999fb4bf8e304909ab5f2c928ea91a41afb367d87d22",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

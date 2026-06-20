@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Prisoner's Dilemma",
+  "universe": "GAM · The Prisoner's Dilemma (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Prisoner's Dilemma:GAM:a57632⟧",
+  "carbon": "the-prisoners-dilemma.carbon.tiff (TIFF)",
+  "silicon": "the-prisoners-dilemma.silicon.png (PNG)",
+  "seal_sha256": "1a130bc97778c2a36524d5bcbe12764948f2d09dbdce060bb25920194f8b62ab",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
